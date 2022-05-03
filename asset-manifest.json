@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calfessions-prod/static/css/main.82df5660.chunk.css",
+    "main.js": "/calfessions-prod/static/js/main.3ef2deff.chunk.js",
+    "main.js.map": "/calfessions-prod/static/js/main.3ef2deff.chunk.js.map",
+    "runtime-main.js": "/calfessions-prod/static/js/runtime-main.7932f07a.js",
+    "runtime-main.js.map": "/calfessions-prod/static/js/runtime-main.7932f07a.js.map",
+    "static/js/2.69fd2890.chunk.js": "/calfessions-prod/static/js/2.69fd2890.chunk.js",
+    "static/js/2.69fd2890.chunk.js.map": "/calfessions-prod/static/js/2.69fd2890.chunk.js.map",
+    "index.html": "/calfessions-prod/index.html",
+    "static/css/main.82df5660.chunk.css.map": "/calfessions-prod/static/css/main.82df5660.chunk.css.map",
+    "static/js/2.69fd2890.chunk.js.LICENSE.txt": "/calfessions-prod/static/js/2.69fd2890.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/calfessions-prod/static/media/homeBackground.d34136e3.jpg",
+    "static/media/profile.css": "/calfessions-prod/static/media/profileBackground.d5afc938.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7932f07a.js",
+    "static/js/2.69fd2890.chunk.js",
+    "static/css/main.82df5660.chunk.css",
+    "static/js/main.3ef2deff.chunk.js"
+  ]
+}
